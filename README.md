@@ -2,6 +2,11 @@
 
 As part of the README.md file in your GitHub repository, you’ll also create a report that compares the performance of the machine learning models based on the trading predictions that each makes and the resulting cumulative strategy returns.
 
+My thoughts on this Module
+
+As per usual, I  enjoyed this mod to extend the learnigns we have had during class. However, I did run into some compiling issues that I was unable to review with a TA so I was hoping to get some guidance into what this issue means. 
+Overall, I think it is very interesting to continue my knowledge with machine learning and trading markets. This module was applied direclty relates to activities that are completed in the real world. I am now interested on how the place in which I work do these every day in relation to the trading markets. 
+
 ## My Thoughts about this Module 
 
 # Machine Learning Trading Bot
